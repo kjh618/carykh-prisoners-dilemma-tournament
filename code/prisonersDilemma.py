@@ -4,7 +4,8 @@ import importlib
 import numpy as np
 import random
 
-STRATEGY_FOLDER = "exampleStrats"
+# STRATEGY_FOLDER = "exampleStrats"
+STRATEGY_FOLDER = "strats"
 RESULTS_FILE = "results.txt"
 
 pointsArray = [[1,5],[0,3]] # The i-j-th element of this array is how many points you receive if you do play i, and your opponent does play j.
