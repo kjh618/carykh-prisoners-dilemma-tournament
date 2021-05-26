@@ -1,6 +1,6 @@
-total 333
-drwxrwxrwx 1 kjh root 16384  5월 27 00:14 ./
-drwxrwxrwx 1 kjh root  4096  5월 27 00:19 ../
+total 341
+drwxrwxrwx 1 kjh root 16384  5월 27 02:28 ./
+drwxrwxrwx 1 kjh root  4096  5월 27 02:28 ../
 -rwxrwxrwx 1 kjh root 14394  5월 26 08:54 AAAAAAAA_magic8Ball.py*
 -rwxrwxrwx 1 kjh root   372  5월 26 08:54 agent.py*
 -rwxrwxrwx 1 kjh root    49  5월 21 16:32 alwaysCooperate.py*
@@ -39,6 +39,7 @@ drwxrwxrwx 1 kjh root  4096  5월 27 00:19 ../
 -rwxrwxrwx 1 kjh root  1346  5월 26 08:54 hygrit.py*
 -rwxrwxrwx 1 kjh root  3696  5월 26 08:54 ImprovedHindenburg.py*
 -rwxrwxrwx 1 kjh root   393  5월 21 16:32 joss.py*
+-rwxrwxrwx 1 kjh root  1856  5월 27 02:17 kjhDetectRandom2.py*
 -rwxrwxrwx 1 kjh root  1684  5월 27 00:10 kjhDetectRandom.py*
 -rwxrwxrwx 1 kjh root   132  5월 26 20:29 kjhSkewedRandom1.py*
 -rwxrwxrwx 1 kjh root   132  5월 26 20:29 kjhSkewedRandom2.py*
@@ -60,7 +61,7 @@ drwxrwxrwx 1 kjh root  4096  5월 27 00:19 ../
 -rwxrwxrwx 1 kjh root   347  5월 26 08:54 periodicCopycat.py*
 -rwxrwxrwx 1 kjh root  2590  5월 21 16:32 Priest.py*
 -rwxrwxrwx 1 kjh root  2741  5월 26 08:54 PrisonerSherlock.py*
-drwxrwxrwx 1 kjh root 24576  5월 27 00:14 __pycache__/
+drwxrwxrwx 1 kjh root 28672  5월 27 02:17 __pycache__/
 -rwxrwxrwx 1 kjh root    86  5월 21 16:32 random (3rd copy).py*
 -rwxrwxrwx 1 kjh root    86  5월 21 16:32 random (4th copy).py*
 -rwxrwxrwx 1 kjh root    86  5월 21 16:32 random (5th copy).py*

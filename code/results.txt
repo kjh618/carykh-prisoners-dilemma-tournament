@@ -1,0 +1,344 @@
+alwaysStaySilent (P1)  VS.  alwaysTellTruth (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for alwaysStaySilent: 0.0
+Final score for alwaysTellTruth: 5.0
+
+alwaysStaySilent (P1)  VS.  detective (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S T S S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for alwaysStaySilent: 0.032846715328467155
+Final score for detective: 4.978102189781022
+
+alwaysStaySilent (P1)  VS.  ftft (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for alwaysStaySilent: 3.0
+Final score for ftft: 3.0
+
+alwaysStaySilent (P1)  VS.  grimTrigger (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for alwaysStaySilent: 3.0
+Final score for grimTrigger: 3.0
+
+alwaysStaySilent (P1)  VS.  joss (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S T S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S T S S S S S S S S S S S S S S S S S S S S S S S S T S S T S S S S S S S S T S S S S S S S S T S S S S S S S S S S S S S S S S S T S T S S T S S S S S T S T T S S S T S S S S S S S S S S T S S S S S T S S T S S S S T S S S S S S S S T S S S T S S S T S T S S S S T S T S T S S S S T S S S S S S S S S S S S S S T S S S S S S S S S S S S S S S S S S S 
+Final score for alwaysStaySilent: 2.6502242152466366
+Final score for joss: 3.233183856502242
+
+alwaysStaySilent (P1)  VS.  kjhDetectRandom (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for alwaysStaySilent: 3.0
+Final score for kjhDetectRandom: 3.0
+
+alwaysStaySilent (P1)  VS.  kjhDetectRandom2 (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for alwaysStaySilent: 3.0
+Final score for kjhDetectRandom2: 3.0
+
+alwaysStaySilent (P1)  VS.  randomStrategy (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+T T S T T T T S S T T S T T S S T S S T T S T S T S T T S S S T S S T T T S T T S T S T S S S T T T T S T S T T S T S T S T T T S T T T S T T T T S S T T S S T T S T S T S T S T T T T T S T S S T T S T T T T S S T T T S T T S S T S S S S S T S T T S T S S T S S T T S S T T T S S S T S T S S T S T T S S S S T T T S S S T S S S T T T T T T T S S T T S T T T S T S T T T T S S T T T S S T T S S S T S S S S S T S S T S S S T S T T S T S S S T T T T T T T S T S S S S S T T S S S T S T S T T S T T 
+Final score for alwaysStaySilent: 1.3911290322580645
+Final score for randomStrategy: 4.07258064516129
+
+alwaysStaySilent (P1)  VS.  simpleton (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for alwaysStaySilent: 3.0
+Final score for simpleton: 3.0
+
+alwaysStaySilent (P1)  VS.  titForTat (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for alwaysStaySilent: 3.0
+Final score for titForTat: 3.0
+
+alwaysTellTruth (P1)  VS.  detective (P2)
+T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+S T S S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for alwaysTellTruth: 1.0524017467248907
+Final score for detective: 0.9868995633187773
+
+alwaysTellTruth (P1)  VS.  ftft (P2)
+T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+S S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for alwaysTellTruth: 1.0398009950248757
+Final score for ftft: 0.9900497512437811
+
+alwaysTellTruth (P1)  VS.  grimTrigger (P2)
+T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for alwaysTellTruth: 1.0125786163522013
+Final score for grimTrigger: 0.9968553459119497
+
+alwaysTellTruth (P1)  VS.  joss (P2)
+T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for alwaysTellTruth: 1.0172413793103448
+Final score for joss: 0.9956896551724138
+
+alwaysTellTruth (P1)  VS.  kjhDetectRandom (P2)
+T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for alwaysTellTruth: 1.0145454545454546
+Final score for kjhDetectRandom: 0.9963636363636363
+
+alwaysTellTruth (P1)  VS.  kjhDetectRandom2 (P2)
+T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for alwaysTellTruth: 1.017467248908297
+Final score for kjhDetectRandom2: 0.9956331877729258
+
+alwaysTellTruth (P1)  VS.  randomStrategy (P2)
+T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+T S S S T T S T S S T S T T S T T T T T S T T T S S T S T T T T S T T S S T T S T S S S T T T S T S T S S T T T S T T T T S T T T S S T S T T S S T S S T S S S T T T T T T T T T S S T S S T T S S S T S S T S T T S S S T T S T T T S T T T T S T S S T S S S S S T S T S T T T T T T T T T S S S S S T T T T S S S T S T T T T T T S S T S T T S T S T T S T T S S S S T S S T S S T T S T S S T T T S T S T S T T T T T T S T S T T T T S S S T S S S S T S S T S S S T S T T S T T S T S S T T S T S S T S T T S S T S S S S S S T S 
+Final score for alwaysTellTruth: 2.8544061302681993
+Final score for randomStrategy: 0.5363984674329502
+
+alwaysTellTruth (P1)  VS.  simpleton (P2)
+T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T 
+Final score for alwaysTellTruth: 3.0
+Final score for simpleton: 0.5
+
+alwaysTellTruth (P1)  VS.  titForTat (P2)
+T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for alwaysTellTruth: 1.015209125475285
+Final score for titForTat: 0.9961977186311787
+
+detective (P1)  VS.  ftft (P2)
+S T S S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+S S S S S S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for detective: 1.0674157303370786
+Final score for ftft: 1.0112359550561798
+
+detective (P1)  VS.  grimTrigger (P2)
+S T S S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+S S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for detective: 1.0194174757281553
+Final score for grimTrigger: 1.0436893203883495
+
+detective (P1)  VS.  joss (P2)
+S T S S S S S S S S S S S S S S S S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+S S T S S S S S S S S S S S S S S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for detective: 1.123076923076923
+Final score for joss: 1.1423076923076922
+
+detective (P1)  VS.  kjhDetectRandom (P2)
+S T S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S T S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for detective: 2.996415770609319
+Final score for kjhDetectRandom: 2.996415770609319
+
+detective (P1)  VS.  kjhDetectRandom2 (P2)
+S T S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S T S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for detective: 2.9952830188679247
+Final score for kjhDetectRandom2: 2.9952830188679247
+
+detective (P1)  VS.  randomStrategy (P2)
+S T S S S T S T T T S S S S S S S T T T T T S T S T T S S S S S T S S T S T S S T T T T T S T S S S S T T S T S S T S T T S S S S S T S S T T T S S S T T S T T T S S T S S T T T S T T S T S S S S T S S T T T S T S T S T S S S T T S T S T T T T T T T S S T S S T T S S S S S T S T S T S S S S S T S T S S S S S S T S S S S S T T T T T S T T S T T S T S T T T T S S S S T S S S S T S T T S T T S S S S S S S S T T T S S T T T S S T S S T S T T T T T S T T S T T S T S T T S T T 
+S T T S T S T T T S S S S S S S T T T T T S T S T T S S S S S T S S T S T S S T T T T T S T S S S S T T S T S S T S T T S S S S S T S S T T T S S S T T S T T T S S T S S T T T S T T S T S S S S T S S T T T S T S T S T S S S T T S T S T T T T T T T S S T S S T T S S S S S T S T S T S S S S S T S T S S S S S S T S S S S S T T T T T S T T S T T S T S T T T T S S S S T S S S S T S T T S T T S S S S S S S S T T T S S T T T S S T S S T S T T T T T S T T S T T S T S T T S T T T 
+Final score for detective: 2.26890756302521
+Final score for randomStrategy: 2.310924369747899
+
+detective (P1)  VS.  simpleton (P2)
+S T S S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T 
+S S T T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T 
+Final score for detective: 1.9950738916256157
+Final score for simpleton: 2.019704433497537
+
+detective (P1)  VS.  titForTat (P2)
+S T S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S T S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for detective: 2.995121951219512
+Final score for titForTat: 2.995121951219512
+
+ftft (P1)  VS.  grimTrigger (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for ftft: 3.0
+Final score for grimTrigger: 3.0
+
+ftft (P1)  VS.  joss (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S T S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S T S S S S T S S S S S S S S T S S S T S S S S S S S T S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S T S S S S S S S S S S S S S T S S S S S S S S S T S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S T S S S T S S S S S S S T S S S S S S S S 
+Final score for ftft: 2.8260869565217392
+Final score for joss: 3.1159420289855073
+
+ftft (P1)  VS.  kjhDetectRandom (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for ftft: 3.0
+Final score for kjhDetectRandom: 3.0
+
+ftft (P1)  VS.  kjhDetectRandom2 (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for ftft: 3.0
+Final score for kjhDetectRandom2: 3.0
+
+ftft (P1)  VS.  randomStrategy (P2)
+S S S S S S S T T T T T S S S S S S T S S S S S S S S S S S S S S S S S S S S S T T T T T T S S S S S S S S S S S S S S T T S S T T T T T S S S S S S S T S S T T S S S T T T T S S T S S S S S T T S S S S T S S S S S S S S S S S S S S T T S S S S S T T T S S S S S S S S S S T T S S S S S S S T S S T T T S S T T T T S S S S S S S S S S S S S S S S S S S S S S T S S S S S S T T S S T S S T S S S S S S S S 
+T S S T S T T T T T T S S S T S T T S S S T S S T S S S S T S S S T S S T S T T T T T T T S T S T S S S S T S S S S T T T S T T T T T T S S T S T S T T S T T T S S T T T T T S T T S S S S T T T S S S T T S S S S T S S S T S S S S T T T S S S S T T T T S T S T S S T S S T T T S T S T S S T T S T T T T S T T T T T S S T S T S T S S S S T S T S S S S T S S T T S S S T S T T T S T T S T T S S S S T S S T S 
+Final score for ftft: 1.8719211822660098
+Final score for randomStrategy: 3.103448275862069
+
+ftft (P1)  VS.  simpleton (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for ftft: 3.0
+Final score for simpleton: 3.0
+
+ftft (P1)  VS.  titForTat (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for ftft: 3.0
+Final score for titForTat: 3.0
+
+grimTrigger (P1)  VS.  joss (P2)
+S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+T S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for grimTrigger: 1.0147783251231528
+Final score for joss: 1.0147783251231528
+
+grimTrigger (P1)  VS.  kjhDetectRandom (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for grimTrigger: 3.0
+Final score for kjhDetectRandom: 3.0
+
+grimTrigger (P1)  VS.  kjhDetectRandom2 (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for grimTrigger: 3.0
+Final score for kjhDetectRandom2: 3.0
+
+grimTrigger (P1)  VS.  randomStrategy (P2)
+S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+T T S S T T S S S S T S T S S S S S S T T S T S S S S T T S T S S S T S T S S S T S S S T S S T S S S T T S T S T S S T T S S T T T T T T T T S T S S S S T T T S T S S T S S T T S S T S S S S T T T T S T T T T S S T S T S T S T S T S T S T T T S T T T S T T T S S T T T S S T T T S S T T T T S S S S T S S S T T S S S S S S T T S T S T T T T S S S T S T T T S T S T T S S S T S S S S S S T S T T T T T 
+Final score for grimTrigger: 3.0646766169154227
+Final score for randomStrategy: 0.5024875621890548
+
+grimTrigger (P1)  VS.  simpleton (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for grimTrigger: 3.0
+Final score for simpleton: 3.0
+
+grimTrigger (P1)  VS.  titForTat (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for grimTrigger: 3.0
+Final score for titForTat: 3.0
+
+joss (P1)  VS.  kjhDetectRandom (P2)
+S S S S S S S S S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+S S S S S S S S S S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for joss: 1.4658119658119657
+Final score for kjhDetectRandom: 1.4444444444444444
+
+joss (P1)  VS.  kjhDetectRandom2 (P2)
+T S T S T S T S T S T S T S T S T S T S T S S S S S S S S S S S S S S T S S S S S S S S S T T S S S S S S S S S S S S S S S S S S S T T T S T T S S S S S S S S S S S S S S S S S S S S S S T S T S S S T S S S S T T S S S S S S S S S S S S S S S S S S S S S S S S T S S T S S T S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S T S S S S S S S S T S S S S S S S S S S S S S S S S S T S T S S S 
+S T S T S T S T S T S S S S S T S T S T S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for joss: 3.1853658536585368
+Final score for kjhDetectRandom2: 2.624390243902439
+
+joss (P1)  VS.  randomStrategy (P2)
+T S T S T S T T S T T T S S T S T T T T S T T S T T T T T T S T T S S S T T T T S S S S T S T T T S T T S T T S S T T S T S T T T T T T S T S T T T S S T S S T T S T T S S S T S T T S T S T T T S S T T T S S S T S T S S S T T T T S T T T T S T S T T S S S S S T S T S S T S S T T S S S T T T T T T S T T S S S T T T T S S T T T S T T T T S T T S S S S S T T T S T S S S S S T S T S T T T T T S S T T 
+S T S T S T T S T T T S S T S T T T T S T S S T T T T S T S T T S S S T T T T S S S S S S T T T S T S S T T S S T T S S S T T T T T T S T S S S S S S T S S T T S T T S S S T S T T S T S T T T S S S T T S S S T S T S S S T T T T S T T T T S T S T S S S S S S T S T S S T S S T T S S S T T T T T T S T T S S S T T T T S S T T T S T T T T S T T S S S S S T T T S T S S S S S T S T S T S T T S S S T T T 
+Final score for joss: 2.315
+Final score for randomStrategy: 2.015
+
+joss (P1)  VS.  simpleton (P2)
+S S S T S T T S T T S T T T T S T T S T T T T S T T S T T S T T S T T S T T S T T S T T T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T T T S T T S T T S T T S T T S T T S T T T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T T T S T T S T T S T T S T T S T T S T 
+S S S S T T S T T S T T S T S T T S T T S T S T T S T T S T T S T T S T T S T T S T T S T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T S T T S T T S T T S T T S T T S T T S T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T T S T S T T S T T S T T S T T S T T S T T 
+Final score for joss: 2.0790697674418603
+Final score for simpleton: 1.916279069767442
+
+joss (P1)  VS.  titForTat (P2)
+S S S S S S S S S S S S S S S S S S S S S S S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+S S S S S S S S S S S S S S S S S S S S S S S S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+Final score for joss: 1.1845018450184501
+Final score for titForTat: 1.1660516605166051
+
+kjhDetectRandom (P1)  VS.  kjhDetectRandom2 (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for kjhDetectRandom: 3.0
+Final score for kjhDetectRandom2: 3.0
+
+kjhDetectRandom (P1)  VS.  randomStrategy (P2)
+S T S T T T T S T T S T S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+T S T T T T S T T S T S T T S S S T T S S S T T S S S S T S T S T S T S T T T T T T T T S T T T T T T T T T S T S T T T T T T T S S T T S S T S T S S S T T S S T T T T T T S T S S T T T T S S T S S T T T T T S S S S S S T T S T T T S S S T T T T S S T T S S S T S S T T S T S T S S S S T S T T S T S S S S S T T T T T T S T T T S S T T S T S T S S S T S S T S S S T S T T S S T S T T S S S T T S T S T S T T S T S T S S T 
+Final score for kjhDetectRandom: 2.7772511848341233
+Final score for randomStrategy: 0.6445497630331753
+
+kjhDetectRandom (P1)  VS.  simpleton (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for kjhDetectRandom: 3.0
+Final score for simpleton: 3.0
+
+kjhDetectRandom (P1)  VS.  titForTat (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for kjhDetectRandom: 3.0
+Final score for titForTat: 3.0
+
+kjhDetectRandom2 (P1)  VS.  randomStrategy (P2)
+S T T T T S S T T T T S T S S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T 
+T T T T S S T T T T S T S S S S S T T T S T T T S S T T T S S T S S T T T S S T S T S T S T S T T T T S S T T T S S T S T T S S T T S T T T S T S T S T T S T S S S S T S S T S T S S T S T S S S T T T T T T S S S T S T S S T T T T S S S S S S T S T S S T S S S S T S S T S T T S T S T S S T T T T T S T T T T T T T T S S T S S T S S T S T S S T S S S S T S T S T S S S S T T T T T S T S S S S S T S T T T T S S T T T T S T S S T S S T T T S T T S T S S T S S S T T T S S S S S S S T T T T T S T T S T S S S S T T T S T S S S T T S T S T T S S S S T T S T S T S T S T S S S S T S T T T T S S T T S S T T 
+Final score for kjhDetectRandom2: 2.9501661129568104
+Final score for randomStrategy: 0.574750830564784
+
+kjhDetectRandom2 (P1)  VS.  simpleton (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for kjhDetectRandom2: 3.0
+Final score for simpleton: 3.0
+
+kjhDetectRandom2 (P1)  VS.  titForTat (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for kjhDetectRandom2: 3.0
+Final score for titForTat: 3.0
+
+randomStrategy (P1)  VS.  simpleton (P2)
+T S S T S S S S T S T S T S S S T T T S T S T T S T T S S T S S S T S S S T T S S T T S T T S S T T T T S S T S T T S T S T S T T T S T T S S S S S T T S S T T S S T T S S S S T T S T S T S S T T S T T T T T T S T S T S S S S S S S T S S T S S T T S S S T T S T T T S T T S T T T T S S T T S T T S S T T S S T T T T T S S T S T T S T T T T T S T T S S T S S T T S T T S T S T T S S T S S T S T S S S T S T S S S T T S T S T T S S T S S T T S S S S S S T T S S S S T T S T S 
+S T T T S S S S S T T S S T T T T S T S S T T S T T S T T T S S S S T T T T S T T T S T T S T T T S T S T T T S S T S S T T S S T S T T S T T T T T T S T T T S T T T S T T T T T S T T S S T T T S T T S T S T S T T S S T T T T T T T T S S S T T T S T T T T S T T S T S S T S S T S T S S S T S S T S S S T S S S T S T S T T T S S T S S T S T S T T S T T T S S S T S S T S S T T S T T T S S S T T S S S S T T S S S S T S S T T S T T T S S S T S S S S S S S T S S S S S T S S T 
+Final score for randomStrategy: 2.160337552742616
+Final score for simpleton: 2.329113924050633
+
+randomStrategy (P1)  VS.  titForTat (P2)
+T T S S S S S T T T S S T S S S T T S S T S S T T T T S T T T S S T T S T T S S T S T T T T T T T S S S T S T T S S S S T T T T S S S T T S S S T T T T S S T T T S S S T T S T S S T S S S S T T S T S S T T S S S S T T S S S S T S S S T T T S S S T T T T S S S T T T T T T T S T S T T T S T T S S S S T T T T S T T T T T S T T S S S S S S S S T S T S T S S S T S S S T T T T S T S S T T T S S S S S T S S T T S S S T T S T S S S T S S T T T S S S 
+S T T S S S S S T T T S S T S S S T T S S T S S T T T T S T T T S S T T S T T S S T S T T T T T T T S S S T S T T S S S S T T T T S S S T T S S S T T T T S S T T T S S S T T S T S S T S S S S T T S T S S T T S S S S T T S S S S T S S S T T T S S S T T T T S S S T T T T T T T S T S T T T S T T S S S S T T T T S T T T T T S T T S S S S S S S S T S T S T S S S T S S S T T T T S T S S T T T S S S S S T S S T T S S S T T S T S S S T S S T T T S S 
+Final score for randomStrategy: 2.233183856502242
+Final score for titForTat: 2.233183856502242
+
+simpleton (P1)  VS.  titForTat (P2)
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S 
+Final score for simpleton: 3.0
+Final score for titForTat: 3.0
+
+
+
+TOTAL SCORES
+#1: kjhDetectRandom2: 27.565  (2.757 average)
+#2: kjhDetectRandom: 26.214  (2.621 average)
+#3: titForTat:       25.391  (2.539 average)
+#4: simpleton:       24.765  (2.477 average)
+#5: ftft:            24.699  (2.470 average)
+#6: grimTrigger:     24.120  (2.412 average)
+#7: detective:       22.426  (2.243 average)
+#8: alwaysStaySilent: 22.074  (2.207 average)
+#9: joss:            19.732  (1.973 average)
+#10: randomStrategy:  18.154  (1.815 average)
+#11: alwaysTellTruth: 18.024  (1.802 average)
