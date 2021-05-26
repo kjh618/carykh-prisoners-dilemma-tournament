@@ -5,6 +5,7 @@ import numpy as np
 import random
 
 # STRATEGY_FOLDER = "exampleStrats"
+# STRATEGY_FOLDER = "testStrats"
 STRATEGY_FOLDER = "strats"
 RESULTS_FILE = "results.txt"
 
