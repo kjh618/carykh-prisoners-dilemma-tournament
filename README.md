@@ -1,6 +1,7 @@
 # My Entry for Carykh's Prisoner's Dilemma Tournament
 
 This is my entry for [carykh](https://www.youtube.com/user/carykh)'s [prisoner's dilemma tournament](https://www.youtube.com/watch?v=r2Fw_rms-mA).
+The submitted strategy is `code/strats/kjhDetectRandom2.py`.
 
 You can see the original README below.
 
