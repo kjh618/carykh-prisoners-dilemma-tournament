@@ -1,3 +1,11 @@
+# My Entry for Carykh's Prisoner's Dilemma Tournament
+
+This is my entry for [carykh](https://www.youtube.com/user/carykh)'s [prisoner's dilemma tournament](https://www.youtube.com/watch?v=r2Fw_rms-mA).
+
+You can see the original README below.
+
+---
+
 # PrisonersDilemmaTournament
 
 This is my CS 269i class project. Check out my webpage for context! https://htwins.net/prisoners-dilemma/
